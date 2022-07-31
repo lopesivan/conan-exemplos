@@ -8,5 +8,5 @@ Considerações por plataforma
 
 Python no controle
 
-[simple_cmake_project](https://github.com/lopesivan/conan-exemplos/tree/01-exemplo){:target="_blank"}
+[simple_cmake_project](https://github.com/lopesivan/conan-exemplos/tree/01-exemplo)
 
